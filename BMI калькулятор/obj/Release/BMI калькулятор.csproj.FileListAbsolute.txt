@@ -1,0 +1,11 @@
+G:\Мои проекты\All Marathon Skills 2020\BMI Calc\BMI калькулятор\bin\Release\BMI калькулятор.exe.config
+G:\Мои проекты\All Marathon Skills 2020\BMI Calc\BMI калькулятор\bin\Release\BMI калькулятор.exe
+G:\Мои проекты\All Marathon Skills 2020\BMI Calc\BMI калькулятор\bin\Release\BMI калькулятор.pdb
+G:\Мои проекты\All Marathon Skills 2020\BMI Calc\BMI калькулятор\obj\Release\BMI калькулятор.csprojAssemblyReference.cache
+G:\Мои проекты\All Marathon Skills 2020\BMI Calc\BMI калькулятор\obj\Release\BMI_калькулятор.Form1.resources
+G:\Мои проекты\All Marathon Skills 2020\BMI Calc\BMI калькулятор\obj\Release\BMI_калькулятор.Properties.Resources.resources
+G:\Мои проекты\All Marathon Skills 2020\BMI Calc\BMI калькулятор\obj\Release\BMI калькулятор.csproj.GenerateResource.cache
+G:\Мои проекты\All Marathon Skills 2020\BMI Calc\BMI калькулятор\obj\Release\BMI калькулятор.exe
+G:\Мои проекты\All Marathon Skills 2020\BMI Calc\BMI калькулятор\obj\Release\BMI калькулятор.pdb
+G:\Мои проекты\All Marathon Skills 2020\BMI Calc\BMI калькулятор\obj\Release\BMI_калькулятор.BMR.BMR_calculator.resources
+G:\Мои проекты\All Marathon Skills 2020\BMI Calc\BMI калькулятор\obj\Release\BMI_калькулятор.BMR.BMR_info.resources
